@@ -2,4 +2,4 @@ const TypeEffect = () => {
     return <h1>Type Effect</h1>;
   };
   
-  export default Logo;
+  export default TypeEffect;
