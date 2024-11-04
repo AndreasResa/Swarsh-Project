@@ -1,5 +1,5 @@
 import Evolution from "./Evolution";
-import Type from "./Type-Effect";
+import TypeEffect from "./Type-Effect";
 import Logo from "./Logo";
 
 const Card = () => {
@@ -8,7 +8,7 @@ const Card = () => {
     <>
       <h1>{card}</h1>
       <Evolution />
-      <Type />
+      <TypeEffect />
       <Logo />
     </>
   );

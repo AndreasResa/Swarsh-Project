@@ -1,4 +1,4 @@
-import Search from "./Search/Index";
+import Search from "./Search";
 import Card from "./Card-Info";
 
 const Home = () => {

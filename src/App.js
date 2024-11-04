@@ -5,6 +5,8 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     <>
+      <Home />
+      <Header text="Header using pull" />
       <Footer text="Footer using" />
     </>
   );
